@@ -20,7 +20,7 @@
         <Host Name="Document" />
     </Hosts>
     <DefaultSettings>
-        <SourceLocation DefaultValue="https://YOUR_USERNAME.github.io/word-formatter/formatter.html" />
+           <SourceLocation DefaultValue="https://ben-greend.github.io/word-formatter/formatter.html" />
     </DefaultSettings>
     <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
